@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonalAssistantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-10T14:49:34" hostname="rainer-MS-TZZ-A320M-VH-R2-0" time="0.088">
+  <properties/>
+  <testcase name="start" classname="PersonalAssistantTest" time="0.088"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Hello! My name is Rainer.
+I was created in 2020.]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
